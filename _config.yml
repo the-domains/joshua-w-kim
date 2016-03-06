@@ -1,0 +1,29 @@
+name: Joshua W Kim
+favicon: null
+layout_spectrum: 0.724340655375272
+typography_spectrum: 0.7882915583904833
+title: JoshuaWKim
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5210051264148206
+  lightness: 0.38141803070902824
+  saturation: 0.6262908978387713
+  rhythmicContrast: 0.15254401764832437
+purpose: []
